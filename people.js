@@ -8,7 +8,7 @@ function person() {
     
     const hobbies = hobby("videogiochi", "serieTV", "dnd");
 
-    return fullName, hobbies;
+    return {fullName, hobbies};
 }
 
 console.log(person());
