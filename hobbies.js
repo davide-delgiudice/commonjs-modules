@@ -1,6 +1,5 @@
 function hobbies (hobbyOne, hobbyTwo, hobbyThree){
-    let arrHobby = [hobbyOne, hobbyTwo, hobbyThree];
-    return arrHobby;
+    return [hobbyOne, hobbyTwo, hobbyThree];
 }
 
 module.exports = hobbies;
