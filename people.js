@@ -4,7 +4,7 @@ const hobby = require('./hobbies.js');
 
 function person() {
     
-    const fullName = name("Davide", "DelGiudice");
+    const fullName = name("Davide", "Del Giudice");
     
     const hobbies = hobby("videogiochi", "serieTV", "dnd");
 
